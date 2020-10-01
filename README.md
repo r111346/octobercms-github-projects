@@ -63,7 +63,7 @@ https://developer.github.com/v3/gists/#get-a-single-gist)
 Please submit pull requests with translations or bugfixes on the plugin's [GitHub page](https://github.com/PascalKleindienst/octobercms-github-projects). Bug reports and feature requests via [Issues](https://github.com/PascalKleindienst/octobercms-github-projects/issues) are welcome!
 
 ## Security
-If you discover any security related issues, please email security@pascalkleindienst.de instead of using the issue tracker.
+If you discover any security related issues, please email it on security@pascalkleindienst.de instead of using the issue tracker.
 
 ## Credits
 
